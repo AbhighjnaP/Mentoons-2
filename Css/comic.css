@@ -1,0 +1,43 @@
+.poster-box {
+  background-color: #ffffffbd;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .poster-box {
+    width: 45%; /* Set the width of the poster box */
+    margin: 2%; /* Add some margin between the boxes */
+    padding: 10px; /* Add some padding for visual separation */
+  }
+  .poster-box {
+    display: inline-block;
+    width: 45%;
+    margin: 20px;
+    padding: 10px;
+    background-color: #f1f1f1; /* change this to the desired background color */
+  }
+p{
+    font-family: sans-serif;
+    font-size: medium;
+}
+.button{
+    font-size: xx-small;
+}
+.back-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+  

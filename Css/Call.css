@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Set the height of the container to fill the entire viewport */
+}
+
+form {
+  /* Optional: set a width for the form */
+  width: 400px;
+}
+=======
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Set the height of the container to fill the entire viewport */
+}
+
+form {
+  /* Optional: set a width for the form */
+  width: 400px;
+}
+>>>>>>> 891abe5d7110c2fb892967e1be5d3a4ff6a67dae
